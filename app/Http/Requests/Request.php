@@ -1,4 +1,4 @@
-<?php namespace App\Http\Requests;
+<?php namespace LuCI\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
